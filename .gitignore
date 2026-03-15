@@ -1,5 +1,2 @@
-.env
-
-
-
+# Ignore the config file that contains sensitive information such as API keys.
 config.js
